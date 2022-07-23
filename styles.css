@@ -1,0 +1,51 @@
+* {
+    font-family: Verdana, sans-serif;
+}
+
+
+h1,
+h2 {
+    color: rgb(54, 54, 54);
+}
+
+.description {
+
+    font-size: medium;
+}
+
+.steps,
+.ingredients {
+
+    font-size: large;
+    background-color: rgb(231, 231, 231);
+
+}
+
+.table-of-contents,
+.navigation {
+
+    font-weight: bolder;
+    font-size: larger;
+}
+
+img {
+
+    width: 400px;
+    height: auto;
+
+}
+
+strong {
+
+    color: red;
+}
+
+em {
+
+    color: green;
+}
+
+strong,
+em {
+    font-size: large;
+}
